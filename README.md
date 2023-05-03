@@ -31,17 +31,27 @@ Branch -  Location of Disneyland Park
 
 Data Cleaning & Processing
 
-
 To begin with, we dropped all the rows that contained missing values and then identified the number of unique values in the Review_ID column. We found that the total number of unique Review IDs was 40,023, so in the following step we dropped duplicate values from the "Review ID" column, returning a clean dataset with distinct Review IDs.
 
 Based on the rating scores, there were 21,908 individuals who gave a rating of 5, 10,086 individuals who gave a rating of 4, there were 4,782 individuals who gave a rating of 3, there were 1,929 individuals who gave a rating of 2, and there were 1,338 individuals who gave rating of 1.
 
 Later on, we performed pre-processing on the content of the "Review_Text". We converted the content to lowercase, removed punctuation and numbers in texts, and then converted the reviews to tokens (i.e. broken into elements of a list). We then set stopwords to remove common words, which did not add any value to the analysis of the text, such as 'I' and 'you’. After that, we lemmatized the reviews and joined all the pre-processed review text to complete the processing of the "review" content.
 
- 
+In the end, we split the YEAR and Month into two different columns and dropped the Year Month column, making it easier to view and analyze the data. In this way, we could also conduct statical analysis on ratings from year to year.
 
 
+III. Exploratory Data Analysis
 
+In order to understand the data, we did a exploratory data analysis, which involved analyzing all the rating of all Disneyland parks around the world. By taking the average and count on the reviews over time for each park we found out that the top three parks with more and best reviews are Disneyland in the following locations: California, Hong Kong and Paris.
             
+Word Cloud for all the Disneyland Parks
 
+We decided to do a word cloud in order to evaluate the most used words in all the Disneyland parks around the world.
+In the following word cloud, we can see that the most frequent words re ride as the biggest, followed up by time, one, kid, food, day and visit.
+Then we interpret that most of the people are very interested in having in enjoying the experiences of the rides that are offered in the Disneyland parks. In addition, they look for one day ticket, food, rides for kids, they also like sharing their past experiences they went to Disneyland.
+
+
+
+Graph 2: Word Cloud about all the Disneyland Parks around the world
+ 
           
