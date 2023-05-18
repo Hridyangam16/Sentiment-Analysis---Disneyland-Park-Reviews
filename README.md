@@ -68,7 +68,7 @@ We generated word clouds for review texts sorted by ratings so that we found wha
 In this first text analysis graph, we identified the key words used by reviewers with rating five. In the graph below we can notice that most repetitive word used in the reviews is great, which can be interpreted as a positive sentiment about most of the parks. Furthermore, we have other most used words such as visit, first attraction, character, amazing, parks and people. We notice that these words are the most repetitive because these are things that people enjoy the most, such as
 
 
-On another hand, we have that the keywords with the lowest rating reviews have other common words used. According to the text analysis, we can see that the most negative words used are queue, people, minute staff, place, closed, ticket. We can interpret that without a doubt the sentiment is negative because these people experience at the park 􏰀􏰁􏰂􏰃􏰄􏰅 been positive and these comments relate to the idea of having queue problems, conflict with other people in the park, finding some rides closed and having some issues finding tickets for some specific dates.
+On another hand, we have that the keywords with the lowest rating reviews have other common words used. According to the text analysis, we can see that the most negative words used are queue, people, minute staff, place, closed, ticket. We can interpret that without a doubt the sentiment is negative because these people experience at the park has been positive and these comments relate to the idea of having queue problems, conflict with other people in the park, finding some rides closed and having some issues finding tickets for some specific dates.
  
 
 Word Cloud: Disneyland California, Paris, and Hong Kong
@@ -86,20 +86,26 @@ For Disneyland Hong Kong, we found 7 topics: park experience, family entertainme
 
 
  Findings about positive sentiment in reviews:
+ 
  􏰆 Disneyland California positive sentiment words related to this specific park are customer service, characters are described as very friendly, the park has a beautiful unique decoration during holidays and the favorite ride is highlighted to be space mountain.
-􏰆 Disneyland Paris words that are related to a positive sentiment are stunning architecture
- and beautifully themed lands, from the enchanting Sleeping Beauty Castle to the immersive world of Ratatouille in the Walt Disney Studios Park. The rides are described as thrilling and fun. The food is defined as delicious.
+ 
+􏰆 Disneyland Paris words that are related to a positive sentiment are stunning architecture and beautifully themed lands, from the enchanting Sleeping Beauty Castle to the immersive world of Ratatouille in the Walt Disney Studios Park. The rides are described as thrilling and fun. The food is defined as delicious.
+
 􏰆 Disneyland Hong Kong has as positive sentiment words such as magical destination, unique and exciting. Other positive words that describe this park are clean and well- maintained, and the staff is friendly and helpful. Furthermore, about the rides the most used word is thrilling. Finally, the most positive sentiment points out that the park is a fantastic destination for families, couples, and anyone who loves Disney.
+
+
  Findings about negative sentiment in reviews:
- 􏰆 Disneyland California: The customers show a negative sentiment related to the following issues. Long lines and crowds, family experience, food, accessibility, and strollers. We were able to find out that a unique problem at this Disneyland is focused on the topics
-  that cast members would sometimes move strollers if they were obstructing a path or cut their locks when necessary. This action can cause park guests to be confused, especially
-related to stroller congestion, rental, parking, and theft. Most of the reviewers mentioned
+ 
+ 􏰆 Disneyland California: The customers show a negative sentiment related to the following issues. Long lines and crowds, family experience, food, accessibility, and strollers. We were able to find out that a unique problem at this Disneyland is focused on the topics that cast members would sometimes move strollers if they were obstructing a path or cut their locks when necessary. This action can cause park guests to be confused, especially related to stroller congestion, rental, parking, and theft. Most of the reviewers mentioned
 if they have no idea where their stroller was moved to.
   
   
   
- 􏰆 Disneyland Paris: The reviews show that the negative sentiment is associated to these topics. Long lines and crowds, customer service, bookings and accommodations, smoking, time of visit, and bad park experience. The main negative topic in this Disneyland is smoking. It looks like smoking is a common culture practice in France. Then, this Disneyland in Paris has created areas for smoking inside the park. Several reviewers complain 􏰁􏰇􏰈􏰉􏰅 􏰅􏰀􏰋􏰂 􏰋􏰂􏰂􏰉􏰌 􏰁􏰃􏰍 􏰎􏰏􏰁􏰋􏰐 􏰅􏰀􏰁􏰅 􏰋􏰅 􏰀􏰁􏰂 􏰑􏰍􏰌􏰂􏰅􏰒􏰈􏰓􏰌􏰍 􏰅􏰀􏰌 􏰐􏰁􏰔􏰋􏰎􏰕􏰖 􏰗􏰋􏰂􏰋􏰅􏰈􏰒􏰂 express disgust about this and said that they feel it is not good for kids.
+ 􏰆 Disneyland Paris: The reviews show that the negative sentiment is associated to these topics. Long lines and crowds, customer service, bookings and accommodations, smoking, time of visit, and bad park experience. The main negative topic in this Disneyland is smoking. It looks like smoking is a common culture practice in France. Then, this Disneyland in Paris has created areas for smoking inside the park. Several reviewers complain and express disgust about this and said that they feel it is not good for kids.
+ 
 􏰆 Disneyland Hong Kong: Some of the negative topics identified are associated to queues, prices, cutting in line, and restaurants. The reviewers seem to complain a lot about people cutting in line and the food at the restaurants not being pleasant. It looks like the main issued about cutting lines is a great concern also noticed by Disneyland Hong Kong since they even had added in their visitor rules to be respectful between guests and be careful not to bump into, push or move ahead of others in the queue.
+
+
   In summary, we found some strengths in three different locations for Disneyland, but we also discovered some specific areas that these Disneylands should improve. Some of the most common pain points for Disneyland in California, Paris and Hong Kong are the following: long wait times, crowded areas and dissatisfaction with some attractions and experiences
 related to capacity and guest interaction.
 
